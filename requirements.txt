@@ -3,3 +3,4 @@ uvicorn
 websockets
 aiohttp
 tabulate
+requests
