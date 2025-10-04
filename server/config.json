@@ -1,0 +1,7 @@
+{
+  "host": "10.0.0.6",
+  "port": 30814,
+  "max_queue_size": 50000,
+  "workers_file": "workers.json",
+  "jobs_log_file": "jobs.log"
+}
